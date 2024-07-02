@@ -1,6 +1,6 @@
 version: 0.2
 env:
-   SPECTRAL_DSN: https://spu-bb4bf0af5a0649d5afae6340b5c7ee4a@spectral-us.checkpoint.com
+   SPECTRAL_DSN: https://spu-bb4bf0af5a0649d5afae6340b5c7ee4a@spectral-eu.checkpoint.com
 phases: 
     build: 
         commands: 
